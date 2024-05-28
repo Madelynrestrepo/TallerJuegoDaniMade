@@ -1,0 +1,17 @@
+C:\Users\Camilo\Dropbox\PC\Documents\Herramientas_Progrmacion_lll\TallerJuegoDaniMade\TallerJuegoDaniMade\bin\Debug\net6.0-windows\TallerJuegoDaniMade.exe
+C:\Users\Camilo\Dropbox\PC\Documents\Herramientas_Progrmacion_lll\TallerJuegoDaniMade\TallerJuegoDaniMade\bin\Debug\net6.0-windows\TallerJuegoDaniMade.deps.json
+C:\Users\Camilo\Dropbox\PC\Documents\Herramientas_Progrmacion_lll\TallerJuegoDaniMade\TallerJuegoDaniMade\bin\Debug\net6.0-windows\TallerJuegoDaniMade.runtimeconfig.json
+C:\Users\Camilo\Dropbox\PC\Documents\Herramientas_Progrmacion_lll\TallerJuegoDaniMade\TallerJuegoDaniMade\bin\Debug\net6.0-windows\TallerJuegoDaniMade.dll
+C:\Users\Camilo\Dropbox\PC\Documents\Herramientas_Progrmacion_lll\TallerJuegoDaniMade\TallerJuegoDaniMade\bin\Debug\net6.0-windows\TallerJuegoDaniMade.pdb
+C:\Users\Camilo\Dropbox\PC\Documents\Herramientas_Progrmacion_lll\TallerJuegoDaniMade\TallerJuegoDaniMade\obj\Debug\net6.0-windows\TallerJuegoDaniMade.csproj.AssemblyReference.cache
+C:\Users\Camilo\Dropbox\PC\Documents\Herramientas_Progrmacion_lll\TallerJuegoDaniMade\TallerJuegoDaniMade\obj\Debug\net6.0-windows\TallerJuegoDaniMade.Form1.resources
+C:\Users\Camilo\Dropbox\PC\Documents\Herramientas_Progrmacion_lll\TallerJuegoDaniMade\TallerJuegoDaniMade\obj\Debug\net6.0-windows\TallerJuegoDaniMade.csproj.GenerateResource.cache
+C:\Users\Camilo\Dropbox\PC\Documents\Herramientas_Progrmacion_lll\TallerJuegoDaniMade\TallerJuegoDaniMade\obj\Debug\net6.0-windows\TallerJuegoDaniMade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camilo\Dropbox\PC\Documents\Herramientas_Progrmacion_lll\TallerJuegoDaniMade\TallerJuegoDaniMade\obj\Debug\net6.0-windows\TallerJuegoDaniMade.AssemblyInfoInputs.cache
+C:\Users\Camilo\Dropbox\PC\Documents\Herramientas_Progrmacion_lll\TallerJuegoDaniMade\TallerJuegoDaniMade\obj\Debug\net6.0-windows\TallerJuegoDaniMade.AssemblyInfo.cs
+C:\Users\Camilo\Dropbox\PC\Documents\Herramientas_Progrmacion_lll\TallerJuegoDaniMade\TallerJuegoDaniMade\obj\Debug\net6.0-windows\TallerJuegoDaniMade.csproj.CoreCompileInputs.cache
+C:\Users\Camilo\Dropbox\PC\Documents\Herramientas_Progrmacion_lll\TallerJuegoDaniMade\TallerJuegoDaniMade\obj\Debug\net6.0-windows\TallerJuegoDaniMade.dll
+C:\Users\Camilo\Dropbox\PC\Documents\Herramientas_Progrmacion_lll\TallerJuegoDaniMade\TallerJuegoDaniMade\obj\Debug\net6.0-windows\refint\TallerJuegoDaniMade.dll
+C:\Users\Camilo\Dropbox\PC\Documents\Herramientas_Progrmacion_lll\TallerJuegoDaniMade\TallerJuegoDaniMade\obj\Debug\net6.0-windows\TallerJuegoDaniMade.pdb
+C:\Users\Camilo\Dropbox\PC\Documents\Herramientas_Progrmacion_lll\TallerJuegoDaniMade\TallerJuegoDaniMade\obj\Debug\net6.0-windows\TallerJuegoDaniMade.genruntimeconfig.cache
+C:\Users\Camilo\Dropbox\PC\Documents\Herramientas_Progrmacion_lll\TallerJuegoDaniMade\TallerJuegoDaniMade\obj\Debug\net6.0-windows\ref\TallerJuegoDaniMade.dll
